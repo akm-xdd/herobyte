@@ -2,7 +2,7 @@ import Image from "next/image";
 
 function Footer() {
   return (
-    <div className="flex flex-wrap justify-center w-full text-offpink bg-black py-8">
+    <div className="flex flex-wrap justify-center w-full text-offpink bg-black py-8" id="footer">
       <div className="max-w-[85rem] w-full px-4 sm:flex sm:items-center">
         <div className="w-full sm:w-1/3 flex justify-center mb-5 sm:mb-0">
           <Image
