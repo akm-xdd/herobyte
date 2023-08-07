@@ -1,0 +1,38 @@
+{
+  "..\\..\\node_modules\\@sanity\\client\\dist\\index.browser.js -> @sanity/eventsource": {
+    "id": "..\\..\\node_modules\\@sanity\\client\\dist\\index.browser.js -> @sanity/eventsource",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_sanity_eventsource_browser_js.js"
+    ]
+  },
+  "..\\..\\node_modules\\sanity\\lib\\_chunks\\desk-6f8014f5.js -> ./index-c5edfd9b.js": {
+    "id": "..\\..\\node_modules\\sanity\\lib\\_chunks\\desk-6f8014f5.js -> ./index-c5edfd9b.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_sanity_lib__chunks_index-c5edfd9b_js.js"
+    ]
+  },
+  "..\\..\\node_modules\\sanity\\lib\\_chunks\\index-c5edfd9b.js -> ./index-4dd88325.js": {
+    "id": "..\\..\\node_modules\\sanity\\lib\\_chunks\\index-c5edfd9b.js -> ./index-4dd88325.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_sanity_lib__chunks_index-4dd88325_js.js"
+    ]
+  },
+  "..\\..\\node_modules\\sanity\\lib\\_chunks\\index-c5edfd9b.js -> ./index-ae8931fe.js": {
+    "id": "..\\..\\node_modules\\sanity\\lib\\_chunks\\index-c5edfd9b.js -> ./index-ae8931fe.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_sanity_lib__chunks_index-ae8931fe_js.js"
+    ]
+  },
+  "..\\..\\node_modules\\sanity\\lib\\_chunks\\index-c5edfd9b.js -> ./index-d694fb67.js": {
+    "id": "..\\..\\node_modules\\sanity\\lib\\_chunks\\index-c5edfd9b.js -> ./index-d694fb67.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_sanity_lib__chunks_index-d694fb67_js.js"
+    ]
+  },
+  "..\\..\\node_modules\\sanity\\lib\\_chunks\\index-c5edfd9b.js -> ./index-f6b64141.js": {
+    "id": "..\\..\\node_modules\\sanity\\lib\\_chunks\\index-c5edfd9b.js -> ./index-f6b64141.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_sanity_lib__chunks_index-f6b64141_js.js"
+    ]
+  }
+}

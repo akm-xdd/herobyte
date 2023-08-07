@@ -1,0 +1,30 @@
+<div className="bg-rose-600 h-[50vh] py-16">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                    <div className="mb-8 text-center">
+                        <h2 className="text-4xl font-primary font-bold text-amber-100">
+                            Check out some of my latest posts...
+                        </h2>
+                    </div>
+                    <div className="flex justify-center space-x-4">
+                        {posts.map((post) => (
+                            <PostCard key={post._id} title={post.name} content={post.content} />
+                        ))}
+                    </div>
+                </div>
+            </div>
+            <div className="bg-orange-600 h-[50vh] py-16">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                    <div className="mb-8 text-center">
+                        <h2 className="text-4xl font-primary font-bold text-white">
+                            Check out some of my favorite posts...
+                        </h2>
+                    </div>
+                    <div className="flex justify-center space-x-4">
+                        {posts.map((post) => (
+                            <div key={post._id}>
+                                <PostCard title={post.name} content={post.content} />
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            </div>
